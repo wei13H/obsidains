@@ -1,0 +1,1 @@
+使用这个结构体来记录在内核申请下来的设备号，可以使用静态申请和动态申请两种方式进行申请。alloc_chrdev_region（）；register_chrdev_region（）；

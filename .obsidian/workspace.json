@@ -1,0 +1,389 @@
+{
+  "main": {
+    "id": "4e0ad7f8bc0fd19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e731bd3a11af4e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f533d509479788a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "d96ddbb6d64c5486",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "9134f189f40d7926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "结构"
+            }
+          },
+          {
+            "id": "e672fa805e775c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux基本知识/linux选线管理的命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux选线管理的命令"
+            }
+          },
+          {
+            "id": "be18a87d066c1d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux基本知识/Linux文件系统目录结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux文件系统目录结构"
+            }
+          },
+          {
+            "id": "4baf22ba577574c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux内核驱动/linux的内核符号表.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux的内核符号表"
+            }
+          },
+          {
+            "id": "cbce537238bae9dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "字符设备驱动/设备号.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "设备号"
+            }
+          },
+          {
+            "id": "1937cc6cca79a865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "字符设备驱动/设备节点，设备号，cdev，dev_t fileoperation之间的关系.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "设备节点，设备号，cdev，dev_t fileoperation之间的关系"
+            }
+          },
+          {
+            "id": "5aa1a7a12af015a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单片机的睡眠，停止，待机模式的区别.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单片机的睡眠，停止，待机模式的区别"
+            }
+          },
+          {
+            "id": "ce7f4d8159faaa6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "makefile/makefile的赋值.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "makefile的赋值"
+            }
+          },
+          {
+            "id": "bfa45c4f25deebc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "结构"
+            }
+          },
+          {
+            "id": "6b10f3f0784fcbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "makefile编写规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "makefile编写规则"
+            }
+          },
+          {
+            "id": "8dd3c5a2404cbdcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "本地常见指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "本地常见指令"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5383a4a1b47a9e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "348b42cb946bc159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14231e2864ffc6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aada6d757b3798ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0262200b038bed03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "770eb755500ac141",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f8c90ace43dfbea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193e7611b33db746",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "字符设备驱动/file_operations 结构体.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "file_operations 结构体 的反向链接列表"
+            }
+          },
+          {
+            "id": "fc114c38524d3f59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "69cdd1cb33964a99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5259bda0b4677924",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "df119065f54655d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "ce7f4d8159faaa6d",
+  "lastOpenFiles": [
+    "makefile/makefile的变量.md",
+    "makefile/makefile的赋值.md",
+    "makefile/makefile编写规则.md",
+    "常用的vim编译器指令.md",
+    "嵌入式基本知识/微控制器的分类.md",
+    "单片机的睡眠，停止，待机模式的区别.md",
+    "嵌入式基本知识",
+    "linux内核驱动/linux的内核符号表.md",
+    "热插拔电路.md",
+    "基础电子/电容的充电特性.md",
+    "rk3566学习/内核模块的加载与卸载.md",
+    "网络/网络结构.md",
+    "网络/网络名词.md",
+    "网络",
+    "Pasted image 20260908120406.png",
+    "基础电子",
+    "Pasted image 20260814150002.png",
+    "未命名",
+    "低功耗设计",
+    "字符设备驱动/设备节点，设备号，cdev，dev_t fileoperation之间的关系.md",
+    "字符设备驱动/用和空间和内核空间.md",
+    "字符设备驱动/udev.md",
+    "字符设备驱动/file_operations 结构体.md",
+    "字符设备驱动/dev_t结构体.md",
+    "字符设备驱动/cdev 结构体.md",
+    "字符设备驱动/设备号.md",
+    "字符设备驱动/设备节点.md",
+    "linux基本知识/结构.md",
+    "linux基本知识",
+    "linux基本知识/linux选线管理的命令.md",
+    "linux基本知识/Linux文件系统目录结构.md",
+    "makefile/config文件和.config文件的区别.md",
+    "2026-07-21.md",
+    "linux内核驱动",
+    "makefile/kconfig语法.md",
+    "字符设备驱动",
+    "未命名.canvas",
+    "makefile",
+    "rk3566学习/linux系统组成"
+  ]
+}
